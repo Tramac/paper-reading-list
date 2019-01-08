@@ -37,3 +37,4 @@ This repository records some of papers. The synchronized [blog](https://tramac.g
 * [**DRN**] Dilated Residual Networks-CVPR2017<[Paper](https://arxiv.org/pdf/1705.09914.pdf)><[Code-Pytorch](https://github.com/fyu/drn)><br>
 * [**CapsNet**] Dynamic Routing Between Capsules-NIPS2017<[Paper](https://arxiv.org/pdf/1710.09829.pdf)><[Code-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)><br>
 * [**BlockQNN**] Practical Block-wise Neural Network Architecture Generation-CVPR2018<[Paper](https://arxiv.org/pdf/1708.05552.pdf)><br>
+* [**MobileNetV2**] MobileNetV2: Inverted Residuals and Linear Bottlenecks-CVPR2018<[Paper](https://128.84.21.199/pdf/1801.04381.pdf)><[Code-Tensorflow](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)><br>
