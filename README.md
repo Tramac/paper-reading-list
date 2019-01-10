@@ -23,6 +23,9 @@ This repository records some of papers. The synchronized [blog](https://tramac.g
 * [**ESPNet**] ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation-ECCV2018<[Paper](https://arxiv.org/pdf/1803.06815v2.pdf)><[Code-Pytorch](https://github.com/sacmehta/ESPNet)><br>
 * [**EncNet**] Context Encoding for Semantic Segmentation-CVPR2018<[Paper](https://arxiv.org/pdf/1803.08904v1.pdf)><[Code-Pytorch](https://github.com/zhanghang1989/PyTorch-Encoding)><br>
 
+## Panoptic Segmentation
+* [**Panoptic FPN**] Panoptic Feature Pyramid Networks-Arxiv2019<[Paper](https://arxiv.org/pdf/1901.02446.pdf)><br>
+
 ## Super-Resolution
 * [**mDCSRN**] Efficient and Accurate MRI Super-Resolution using a Generative Adversarial Network and 3D Multi-Level Densely Connected Network-MICCAI2018<[Paper](https://arxiv.org/pdf/1803.01417.pdf)><br>
 * [**RDN**] Residual Dense Network for Image Super-Resolution-CVPR2018<[Paper](https://arxiv.org/abs/1802.08797)><[Code-Torch](https://github.com/yulunzhang/RDN)><[Code-Pytorch](https://github.com/thstkdgus35/EDSR-PyTorch)><[Code-Tensorflow](https://github.com/hengchuan/RDN-TensorFlow)><br>
