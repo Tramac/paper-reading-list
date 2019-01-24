@@ -41,3 +41,4 @@ This repository records some of papers. The synchronized [blog](https://tramac.g
 * [**CapsNet**] Dynamic Routing Between Capsules-NIPS2017<[Paper](https://arxiv.org/pdf/1710.09829.pdf)><[Code-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)><br>
 * [**BlockQNN**] Practical Block-wise Neural Network Architecture Generation-CVPR2018<[Paper](https://arxiv.org/pdf/1708.05552.pdf)><br>
 * [**MobileNetV2**] MobileNetV2: Inverted Residuals and Linear Bottlenecks-CVPR2018<[Paper](https://128.84.21.199/pdf/1801.04381.pdf)><[Code-Tensorflow](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet)><br>
+* [**Non-Local**] Non-local Neural Networks-CVPR2018<[Paper](https://arxiv.org/pdf/1711.07971.pdf)><[Code](https://github.com/facebookresearch/video-nonlocal-net)>
