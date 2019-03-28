@@ -1,5 +1,6 @@
 # Paper-reading-list
-This repository records some of papers. The synchronized [blog](https://tramac.github.io/2018/12/05/Paper-list/#more).
+This repository records some of papers. The synchronized [blog](https://tramac.github.io/2018/12/05/Paper-list/#more).<br>
+The synchronized [Github](https://github.com/Tramac/Awesome-semantic-segmentation-pytorch).
 
 ## Semantic Segmentation
 * [**AdaptSegNet**] Learning to Adapt Structured Output Space for Semantic Segmentation-CVPR2018<[Paper](https://arxiv.org/pdf/1802.10349.pdf)><[Code-Pytorch](https://github.com/wasidennis/AdaptSegNet)><br>
@@ -22,6 +23,8 @@ This repository records some of papers. The synchronized [blog](https://tramac.g
 * [**ExFuse**] ExFuse: Enhancing Feature Fusion for Semantic Segmentation-ECCV2018<[Paper](https://arxiv.org/pdf/1804.03821.pdf)><br>
 * [**ESPNet**] ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation-ECCV2018<[Paper](https://arxiv.org/pdf/1803.06815v2.pdf)><[Code-Pytorch](https://github.com/sacmehta/ESPNet)><br>
 * [**EncNet**] Context Encoding for Semantic Segmentation-CVPR2018<[Paper](https://arxiv.org/pdf/1803.08904v1.pdf)><[Code-Pytorch](https://github.com/zhanghang1989/PyTorch-Encoding)><br>
+* [**PSPNet**] Pyramid Scene Parsing Network-CVPR2017<[Paper](https://arxiv.org/pdf/1612.01105.pdf)><[Code-Caffe](https://github.com/hszhao/PSPNet)><br>
+* [**DANet**] Dual Attention Network for Scene Segmentation-CVPR2019<[Paper](https://arxiv.org/pdf/1809.02983.pdf)><[Code-PyTorch](https://github.com/junfu1115/DANet)><br>
 
 ## Panoptic Segmentation
 * [**Panoptic FPN**] Panoptic Feature Pyramid Networks-Arxiv2019<[Paper](https://arxiv.org/pdf/1901.02446.pdf)><br>
