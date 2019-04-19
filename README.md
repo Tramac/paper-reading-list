@@ -27,6 +27,9 @@ The synchronized [Github](https://github.com/Tramac/Awesome-semantic-segmentatio
 - [**DANet**] Dual Attention Network for Scene Segmentation-CVPR2019<[Paper](https://arxiv.org/pdf/1809.02983.pdf)><[Code-PyTorch](https://github.com/junfu1115/DANet)><br>
 - [**BiSeNet**] BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation-ECCV-2018<[Paper](https://arxiv.org/pdf/1808.00897.pdf)><[Code-PyTorch](https://github.com/ycszen/TorchSeg)>
 - [**Fast-SCNN**] Fast-SCNN: Fast Semantic Segmentation Network-2019<[Paper](https://arxiv.org/pdf/1902.04502.pdf)><[Code-PyTorch](https://github.com/Tramac/Fast-SCNN-pytorch)>
+- [**ICNet**] ICNet for Real-Time Semantic Segmentation on High-Resolution Images-ECCV2018<[Paper](https://arxiv.org/pdf/1704.08545.pdf)><[Code-PyTorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch)><[Code-Caffe](https://github.com/hszhao/ICNet)>
+- [**DUNet**] Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation-CVPR2019<[Paper](https://arxiv.org/abs/1903.02120.pdf)><[Code-PyTorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch)>
+- [**ENet**] ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation-2016<[Paper](https://arxiv.org/abs/1606.02147.pdf)><[Code-Caffe](https://github.com/TimoSaemann/ENet)><[Code-PyTorch](https://github.com/davidtvs/PyTorch-ENet)><[Code-Tensorflow](https://github.com/kwotsin/TensorFlow-ENet)>
 
 ## Panoptic Segmentation
 - [**Panoptic FPN**] Panoptic Feature Pyramid Networks-Arxiv2019<[Paper](https://arxiv.org/pdf/1901.02446.pdf)><br>
