@@ -1,5 +1,5 @@
 # Paper-reading-list
-This repository records some of papers. The synchronized [blog](https://tramac.github.io/2018/12/05/Paper-list/#more).<br>
+This repository records some of papers. The synchronized [blog](https://tramac.github.io/).<br>
 The synchronized [Github](https://github.com/Tramac/Awesome-semantic-segmentation-pytorch).
 
 ## Semantic Segmentation
